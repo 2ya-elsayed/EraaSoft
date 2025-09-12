@@ -1,0 +1,8 @@
+spring tasks
+lec3 https://github.com/EslamKhder/spring-framework/tree/main/lec3/tasks
+lec4 https://github.com/EslamKhder/spring-framework/tree/main/lec4/tasks
+lec5 https://github.com/EslamKhder/spring-framework/tree/main/lec5/hibernate-906
+servlet jsp tasks
+lec4 https://github.com/EslamKhder/servlet-JSP/tree/master/lec%204/tasks 
+
+search about GeneratedValue strategy of id on hibernate
