@@ -1,0 +1,14 @@
+lecture 32 
+
+Spring tasks 
+lec3  
+https://github.com/EslamKhder/spring-framework/tree/main/lec3/tasks  
+lec4  
+https://github.com/EslamKhder/spring-framework/tree/main/lec4/tasks  
+
+Servlet jsp tasks 
+lec4  
+https://github.com/EslamKhder/servlet-JSP/tree/master/lec%204/tasks  
+
+Search about  
+GeneratedValue strategy of id on hibernate 
