@@ -1,0 +1,16 @@
+Lecture 18
+
+servlet and jsp  
+lec4 
+
+spring  
+Lec1 and Lec2 
+
+Database  
+from lec1 to lec6 
+
+search 
+- search about SQL injection and catch where on project then give 
+me solution 
+- on item controller pls remove duplicated code give me solution 
+- why destroy method doesn't execute when scope is prototype?
