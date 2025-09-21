@@ -1,0 +1,1 @@
+impl item service app (getitems, updateItems, deleteItems, showItems, show Item)
