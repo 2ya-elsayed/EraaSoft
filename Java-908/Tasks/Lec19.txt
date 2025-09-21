@@ -1,0 +1,5 @@
+spring 
+Lec 3 and lec 4 on spring boot tasks today 
+
+search 
+about id strategies in hibernate
