@@ -1,0 +1,3 @@
+Lec 5 https://github.com/EslamKhder/database-lec/tree/main/DataBase%20lec5/task
+lec 6 https://github.com/EslamKhder/database-lec/blob/main/DataBase%20lec6/task/tasks.txt
+Data base tasks 
