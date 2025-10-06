@@ -1,0 +1,3 @@
+Spring Tasks 
+Lec7 https://github.com/EslamKhder/spring-framework/blob/main/lec7/tasks/task1.txt
+Lec8 https://github.com/EslamKhder/spring-framework/blob/main/lec8/tasks.txt
