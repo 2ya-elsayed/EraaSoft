@@ -1,0 +1,3 @@
+Database Tasks 
+Lec7 https://github.com/EslamKhder/database-lec/tree/main/DataBase%20lec7/task
+Lec8 https://github.com/EslamKhder/database-lec/tree/main/DataBase%20lec8/task
